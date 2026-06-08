@@ -11,6 +11,6 @@ package unittest.FirstTest;
  */
 public class UTest {
     public String greet(){
-        return("Hello!! how are you?");
+        return("Hello!!");
     }
 }
